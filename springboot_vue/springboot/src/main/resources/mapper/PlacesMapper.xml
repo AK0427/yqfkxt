@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ak.springboot.mapper.PlacesMapper">
+<!--    <select id="hong" parameterType="com.ak.springboot.entity.Places">-->
+<!--        select count(state) from places where state='红码'-->
+<!--    </select>-->
+<!--    <select id="huang" parameterType="com.ak.springboot.entity.Places">-->
+<!--        select count(state) from places where state='黄码'-->
+<!--    </select>-->
+<!--    <select id="lv" parameterType="com.ak.springboot.entity.Places">-->
+<!--        select count(state) from places where state='绿码'-->
+<!--    </select>-->
+</mapper>
